@@ -1,0 +1,36 @@
+﻿Build started 11/12/2015 16:32:02.
+     1>Project "F:\University Backup\Yr3\Sem 1\Physics Based Animation\Final Submission\PhysicsCWColl\PhysicsCWColl\PhysicsCWColl.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"F:\University Backup\Yr3\Sem 1\Physics Based Animation\Final Submission\PhysicsCWColl\/deps/include" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>f:\university backup\yr3\sem 1\physics based animation\final submission\physicscwcoll\physicscwcoll\GraphicsHelp.h(103): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\university backup\yr3\sem 1\physics based animation\final submission\physicscwcoll\physicscwcoll\GraphicsHelp.h(117): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\university backup\yr3\sem 1\physics based animation\final submission\physicscwcoll\physicscwcoll\GraphicsHelp.h(264): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\university backup\yr3\sem 1\physics based animation\final submission\physicscwcoll\physicscwcoll\GraphicsHelp.h(293): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\university backup\yr3\sem 1\physics based animation\final submission\physicscwcoll\physicscwcoll\GraphicsHelp.h(294): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\university backup\yr3\sem 1\physics based animation\final submission\physicscwcoll\physicscwcoll\GraphicsHelp.h(298): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\university backup\yr3\sem 1\physics based animation\final submission\physicscwcoll\physicscwcoll\GraphicsHelp.h(299): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\university backup\yr3\sem 1\physics based animation\final submission\physicscwcoll\physicscwcoll\GraphicsHelp.h(305): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\university backup\yr3\sem 1\physics based animation\final submission\physicscwcoll\physicscwcoll\GraphicsHelp.h(306): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\university backup\yr3\sem 1\physics based animation\final submission\physicscwcoll\physicscwcoll\GraphicsHelp.h(310): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\university backup\yr3\sem 1\physics based animation\final submission\physicscwcoll\physicscwcoll\GraphicsHelp.h(311): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\university backup\yr3\sem 1\physics based animation\final submission\physicscwcoll\physicscwcoll\GraphicsHelp.h(317): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\university backup\yr3\sem 1\physics based animation\final submission\physicscwcoll\physicscwcoll\GraphicsHelp.h(318): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\university backup\yr3\sem 1\physics based animation\final submission\physicscwcoll\physicscwcoll\GraphicsHelp.h(322): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\university backup\yr3\sem 1\physics based animation\final submission\physicscwcoll\physicscwcoll\GraphicsHelp.h(323): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\university backup\yr3\sem 1\physics based animation\final submission\physicscwcoll\physicscwcoll\GraphicsHelp.h(329): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\university backup\yr3\sem 1\physics based animation\final submission\physicscwcoll\physicscwcoll\GraphicsHelp.h(330): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\university backup\yr3\sem 1\physics based animation\final submission\physicscwcoll\physicscwcoll\GraphicsHelp.h(334): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\university backup\yr3\sem 1\physics based animation\final submission\physicscwcoll\physicscwcoll\GraphicsHelp.h(335): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\University Backup\Yr3\Sem 1\Physics Based Animation\Final Submission\PhysicsCWColl\Release\PhysicsCWColl.exe" /NOLOGO /LIBPATH:"F:\University Backup\Yr3\Sem 1\Physics Based Animation\Final Submission\PhysicsCWColl\/deps/lib" freeglut.lib glew32.lib glew32s.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\University Backup\Yr3\Sem 1\Physics Based Animation\Final Submission\PhysicsCWColl\Release\PhysicsCWColl.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\University Backup\Yr3\Sem 1\Physics Based Animation\Final Submission\PhysicsCWColl\Release\PhysicsCWColl.lib" /MACHINE:X86 /SAFESEH Release\ImageLoader.obj
+         Release\main.obj
+         Release\Vec3f.obj
+         Generating code
+         Finished generating code
+         PhysicsCWColl.vcxproj -> F:\University Backup\Yr3\Sem 1\Physics Based Animation\Final Submission\PhysicsCWColl\Release\PhysicsCWColl.exe
+     1>Done Building Project "F:\University Backup\Yr3\Sem 1\Physics Based Animation\Final Submission\PhysicsCWColl\PhysicsCWColl\PhysicsCWColl.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.33
